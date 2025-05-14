@@ -23,3 +23,7 @@ Use at least 5 different HTML elements.
 Ensure semantic correctness.
 
 Good luck and happy coding! 🚀💻
+
+
+Here is the link to the deployed website:
+https://feb-2025-final-project-and-deployment-m-njoki.vercel.app/index.html
